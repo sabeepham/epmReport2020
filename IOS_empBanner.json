@@ -1,0 +1,1075 @@
+{
+  "Banner": [
+    [
+      "United States",
+      "$0.40",
+      "",
+      "39.382 -99.3421",
+      "United States",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Russia",
+      "$0.15",
+      "",
+      "63.4218 94.1005",
+      "Russia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "United Kingdom",
+      "$0.34",
+      "",
+      "52.4072 -1.7451",
+      "United Kingdom",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Italy",
+      "$0.11",
+      "",
+      "45.3889 10.7776",
+      "Italy",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Japan",
+      "$0.34",
+      "",
+      "36.8513 139.1112",
+      "Japan",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "France",
+      "$0.13",
+      "",
+      "46.6113 2.3336",
+      "France",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Canada",
+      "$0.27",
+      "",
+      "58.838 -120.439",
+      "Canada",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Germany",
+      "$0.28",
+      "",
+      "51.143 9.829",
+      "Germany",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Korea, South",
+      "$0.19",
+      "",
+      "36.0655 127.7925",
+      "Korea, South",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Brazil",
+      "$0.30",
+      "",
+      "-12.4328 -48.9943",
+      "Brazil",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Australia",
+      "$0.39",
+      "",
+      "-23.079 132.842",
+      "Australia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Netherlands",
+      "$0.19",
+      "",
+      "52.157 5.2035",
+      "Netherlands",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Turkey",
+      "$0.13",
+      "",
+      "39.3196 34.3321",
+      "Turkey",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Mexico",
+      "$0.19",
+      "",
+      "23.63 -101.97",
+      "Mexico",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Spain",
+      "$0.14",
+      "",
+      "40.3544 -3.611",
+      "Spain",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Ukraine",
+      "$0.08",
+      "",
+      "48.8464 33.5486",
+      "Ukraine",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Saudi Arabia",
+      "$0.25",
+      "",
+      "23.7603 45.0093",
+      "Saudi Arabia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Vietnam",
+      "$0.09",
+      "",
+      "21.5866 105.3047",
+      "Vietnam",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "China",
+      "$0.30",
+      "",
+      "32.205 109.444",
+      "China",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Switzerland",
+      "$0.30",
+      "",
+      "46.7919 8.1183",
+      "Switzerland",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Sweden",
+      "$0.16",
+      "",
+      "58.581 14.246",
+      "Sweden",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "India",
+      "$0.11",
+      "",
+      "22.1596 78.9305",
+      "India",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Denmark",
+      "$0.17",
+      "",
+      "56.2196 9.3108",
+      "Denmark",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Taiwan",
+      "$0.23",
+      "",
+      "23.741 120.975",
+      "Taiwan",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Belgium",
+      "$0.19",
+      "",
+      "50.6522 4.5809",
+      "Belgium",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Poland",
+      "$0.12",
+      "",
+      "52.1484 19.311",
+      "Poland",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Kazakhstan",
+      "$0.07",
+      "",
+      "48.9437 67.6303",
+      "Kazakhstan",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "United Arab Emirates",
+      "$0.30",
+      "",
+      "23.3865 54.2485",
+      "United Arab Emirates",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Philippines",
+      "$0.11",
+      "",
+      "17.3711 121.4954",
+      "Philippines",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Argentina",
+      "$0.09",
+      "",
+      "-31.9447 -64.1398",
+      "Argentina",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Thailand",
+      "$0.17",
+      "",
+      "15.4439 100.9692",
+      "Thailand",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Malaysia",
+      "$0.14",
+      "",
+      "5.3893 117.3568",
+      "Malaysia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Belarus",
+      "$0.06",
+      "",
+      "53.744 27.947",
+      "Belarus",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Norway",
+      "$0.21",
+      "",
+      "60.5366 7.4496",
+      "Norway",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Chile",
+      "$0.16",
+      "",
+      "-45.7382 -72.9381",
+      "Chile",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Romania",
+      "$0.08",
+      "",
+      "45.857 24.9433",
+      "Romania",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Hungary",
+      "$0.06",
+      "",
+      "47.192 20.498",
+      "Hungary",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Indonesia",
+      "$0.18",
+      "",
+      "-0.9517 114.2118",
+      "Indonesia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Austria",
+      "$0.22",
+      "",
+      "47.614 14.0762",
+      "Austria",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Singapore",
+      "$0.21",
+      "",
+      "1.3565 103.8215",
+      "Singapore",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Iran",
+      "$0.08",
+      "",
+      "31.9382 55.5426",
+      "Iran",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Colombia",
+      "$0.13",
+      "",
+      "3.6525 -73.3121",
+      "Colombia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Israel",
+      "$0.18",
+      "",
+      "30.6283 34.7087",
+      "Israel",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Czech Republic",
+      "$0.15",
+      "",
+      "49.836 15.5465",
+      "Czech Republic",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "New Zealand",
+      "$0.16",
+      "",
+      "-44.7201 169.9667",
+      "New Zealand",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Hong Kong",
+      "$0.25",
+      "",
+      "22.411 114.1485",
+      "Hong Kong",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Portugal",
+      "$0.11",
+      "",
+      "38.7993 -8.3502",
+      "Portugal",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Finland",
+      "$0.13",
+      "",
+      "63.0704 27.7396",
+      "Finland",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Kuwait",
+      "$0.14",
+      "",
+      "29.3073 47.6003",
+      "Kuwait",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "South Africa",
+      "$0.23",
+      "",
+      "-29.6482 23.1067",
+      "South Africa",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Ireland",
+      "$0.16",
+      "",
+      "53.1805 -8.01",
+      "Ireland",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Greece",
+      "$0.08",
+      "",
+      "38.4414 22.1814",
+      "Greece",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Bulgaria",
+      "$0.04",
+      "",
+      "42.7345 23.8815",
+      "Bulgaria",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Puerto Rico",
+      "$0.18",
+      "",
+      "18.234 -66.955",
+      "Puerto Rico",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Azerbaijan",
+      "$0.08",
+      "",
+      "40.2805 47.6804",
+      "Azerbaijan",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Iraq",
+      "$0.07",
+      "",
+      "33.242 42.935",
+      "Iraq",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Slovakia",
+      "$0.08",
+      "",
+      "48.7266 19.5075",
+      "Slovakia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Egypt",
+      "$0.08",
+      "",
+      "26.1939 28.8939",
+      "Egypt",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Croatia",
+      "$0.04",
+      "",
+      "46.001 16.172",
+      "Croatia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Qatar",
+      "$0.20",
+      "",
+      "25.3217 51.1836",
+      "Qatar",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Georgia",
+      "$0.06",
+      "",
+      "42.1618 43.4818",
+      "Georgia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Ecuador",
+      "$0.12",
+      "",
+      "-1.4547 -78.3841",
+      "Ecuador",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Dominican Republic",
+      "$0.11",
+      "",
+      "18.8845 -70.4623",
+      "Dominican Republic",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Cambodia",
+      "$0.10",
+      "",
+      "12.5285 104.3905",
+      "Cambodia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Pakistan",
+      "$0.11",
+      "",
+      "30.8325 71.3748",
+      "Pakistan",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Uruguay",
+      "$0.07",
+      "",
+      "-32.781 -56.0032",
+      "Uruguay",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Peru",
+      "$0.12",
+      "",
+      "-13.1699 -73.0464",
+      "Peru",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Uzbekistan",
+      "$0.05",
+      "",
+      "41.8936 63.8434",
+      "Uzbekistan",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Nigeria",
+      "$0.21",
+      "",
+      "9.6551 8.1061",
+      "Nigeria",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Armenia",
+      "$0.06",
+      "",
+      "40.2165 45.0003",
+      "Armenia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Slovenia",
+      "$0.06",
+      "",
+      "46.152 15.1315",
+      "Slovenia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Latvia",
+      "$0.06",
+      "",
+      "56.7925 26.9435",
+      "Latvia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Albania",
+      "$0.06",
+      "",
+      "41.1413 20.0325",
+      "Albania",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Serbia",
+      "$0.05",
+      "",
+      "44.2085 20.7935",
+      "Serbia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Costa Rica",
+      "$0.11",
+      "",
+      "9.9656 -84.1755",
+      "Costa Rica",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Lithuania",
+      "$0.09",
+      "",
+      "55.1395 23.822",
+      "Lithuania",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Moldova",
+      "$0.05",
+      "",
+      "47.2036 28.4105",
+      "Moldova",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Luxembourg",
+      "$0.12",
+      "",
+      "49.7275 5.9585",
+      "Luxembourg",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Jordan",
+      "$0.12",
+      "",
+      "30.7659 36.4909",
+      "Jordan",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Panama",
+      "$0.10",
+      "",
+      "8.4165 -81.7705",
+      "Panama",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Morocco",
+      "$0.10",
+      "",
+      "31.7 -7.1325",
+      "Morocco",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Myanmar",
+      "$0.15",
+      "",
+      "21.5841 96.1867",
+      "Myanmar",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Guatemala",
+      "$0.09",
+      "",
+      "15.2365 -90.7275",
+      "Guatemala",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Kyrgyzstan",
+      "$0.04",
+      "",
+      "41.7909 74.9911",
+      "Kyrgyzstan",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Oman",
+      "$0.18",
+      "",
+      "22.019 57.368",
+      "Oman",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Lebanon",
+      "$0.08",
+      "",
+      "33.9117 35.8708",
+      "Lebanon",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Estonia",
+      "$0.08",
+      "",
+      "58.5425 26.5455",
+      "Estonia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Cyprus",
+      "$0.07",
+      "",
+      "34.8725 33.131",
+      "Cyprus",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Bahrain",
+      "$0.21",
+      "",
+      "26.0165 50.5475",
+      "Bahrain",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Ghana",
+      "$0.19",
+      "",
+      "6.862 -1.092",
+      "Ghana",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Mongolia",
+      "$0.06",
+      "",
+      "46.1689 105.3854",
+      "Mongolia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Honduras",
+      "$0.06",
+      "",
+      "14.8229 -86.5899",
+      "Honduras",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Nepal",
+      "$0.07",
+      "",
+      "28.9136 81.5974",
+      "Nepal",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Bangladesh",
+      "$0.08",
+      "",
+      "23.5391 89.8049",
+      "Bangladesh",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Bolivia",
+      "$0.08",
+      "",
+      "-16.7289 -64.6413",
+      "Bolivia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Paraguay",
+      "$0.11",
+      "",
+      "-21.9074 -60.1206",
+      "Paraguay",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Palestine",
+      "$0.07",
+      "",
+      "31.9409 35.2734",
+      "Palestine",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Iceland",
+      "$0.19",
+      "",
+      "65.0115 -18.968",
+      "Iceland",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "El Salvador",
+      "$0.09",
+      "",
+      "13.7262 -88.8729",
+      "El Salvador",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Macao",
+      "$0.26",
+      "",
+      "22.1348 113.5571",
+      "Macao",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Sri Lanka",
+      "$0.13",
+      "",
+      "7.7004 80.6672",
+      "Sri Lanka",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Venezuela",
+      "$0.06",
+      "",
+      "7.1583 -64.0124",
+      "Venezuela",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Jamaica",
+      "$0.10",
+      "",
+      "18.1125 -77.269",
+      "Jamaica",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Bosnia and Herzegovina",
+      "$0.05",
+      "",
+      "44.1809 17.8168",
+      "Bosnia and Herzegovina",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Kenya",
+      "$0.17",
+      "",
+      "0.4145 37.8745",
+      "Kenya",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Trinidad and Tobago",
+      "$0.09",
+      "",
+      "10.4282 -61.3304",
+      "Trinidad and Tobago",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Algeria",
+      "$0.07",
+      "",
+      "27.5231 3.1685",
+      "Algeria",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Guam",
+      "$0.10",
+      "",
+      "13.4439 144.7719",
+      "Guam",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Lao PDR",
+      "$0.16",
+      "",
+      "19.9325 102.4435",
+      "Lao PDR",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "North Macedonia",
+      "$0.06",
+      "",
+      "41.6059 21.6977",
+      "North Macedonia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Cote d'Ivoire",
+      "$0.34",
+      "",
+      "7.5538 -5.6121",
+      "Cote d'Ivoire",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Tunisia",
+      "$0.12",
+      "",
+      "33.7774 9.0109",
+      "Tunisia",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Montenegro",
+      "$0.04",
+      "",
+      "42.7891 19.2862",
+      "Montenegro",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Malta",
+      "$0.12",
+      "",
+      "35.8975 14.4185",
+      "Malta",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Nicaragua",
+      "$0.07",
+      "",
+      "12.8482 -85.0204",
+      "Nicaragua",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Senegal",
+      "$0.19",
+      null,
+      "14.9983 -14.9588",
+      "Senegal",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Tajikistan",
+      "$0.09",
+      null,
+      "38.3213 72.1918",
+      "Tajikistan",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Maldives",
+      "$0.12",
+      null,
+      "4.1909 73.5081",
+      "Maldives",
+      "Banners",
+      "Apple"
+    ],
+    [
+      "Brunei",
+      "$0.07",
+      null,
+      "4.6904 114.9152",
+      "Brunei",
+      "Banners",
+      "Apple"
+    ]
+  ]
+}

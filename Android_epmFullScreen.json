@@ -1,0 +1,1651 @@
+{
+  "FullScreen": [
+    [
+      "Russia",
+      "$0.98",
+      "",
+      "63.4218 94.1005",
+      "Russia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "India",
+      "$0.20",
+      "",
+      "22.1596 78.9305",
+      "India",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Brazil",
+      "$0.47",
+      "",
+      "-12.4328 -48.9943",
+      "Brazil",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "United States",
+      "$5.72",
+      "",
+      "39.382 -99.3421",
+      "United States",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Indonesia",
+      "$0.32",
+      "",
+      "-0.9517 114.2118",
+      "Indonesia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Thailand",
+      "$0.51",
+      "",
+      "15.4439 100.9692",
+      "Thailand",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Ukraine",
+      "$0.40",
+      "",
+      "48.8464 33.5486",
+      "Ukraine",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Turkey",
+      "$0.33",
+      "",
+      "39.3196 34.3321",
+      "Turkey",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "France",
+      "$1.86",
+      "",
+      "46.6113 2.3336",
+      "France",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Italy",
+      "$1.12",
+      "",
+      "45.3889 10.7776",
+      "Italy",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Kazakhstan",
+      "$0.37",
+      "",
+      "48.9437 67.6303",
+      "Kazakhstan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Mexico",
+      "$0.65",
+      "",
+      "23.63 -101.97",
+      "Mexico",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Vietnam",
+      "$0.38",
+      "",
+      "21.5866 105.3047",
+      "Vietnam",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Argentina",
+      "$0.42",
+      "",
+      "-31.9447 -64.1398",
+      "Argentina",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Germany",
+      "$2.75",
+      "",
+      "51.143 9.829",
+      "Germany",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "United Kingdom",
+      "$2.94",
+      "",
+      "52.4072 -1.7451",
+      "United Kingdom",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Spain",
+      "$1.06",
+      "",
+      "40.3544 -3.611",
+      "Spain",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Belarus",
+      "$0.43",
+      "",
+      "53.744 27.947",
+      "Belarus",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Poland",
+      "$0.91",
+      "",
+      "52.1484 19.311",
+      "Poland",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Malaysia",
+      "$0.65",
+      "",
+      "5.3893 117.3568",
+      "Malaysia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Philippines",
+      "$0.44",
+      "",
+      "17.3711 121.4954",
+      "Philippines",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Netherlands",
+      "$1.72",
+      "",
+      "52.157 5.2035",
+      "Netherlands",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Korea, South",
+      "$2.85",
+      "",
+      "36.0655 127.7925",
+      "Korea, South",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Colombia",
+      "$0.52",
+      "",
+      "3.6525 -73.3121",
+      "Colombia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Chile",
+      "$0.76",
+      "",
+      "-45.7382 -72.9381",
+      "Chile",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Egypt",
+      "$0.31",
+      "",
+      "26.1939 28.8939",
+      "Egypt",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Canada",
+      "$3.62",
+      "",
+      "58.838 -120.439",
+      "Canada",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Iraq",
+      "$0.23",
+      "",
+      "33.242 42.935",
+      "Iraq",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "China",
+      "$0.18",
+      "",
+      "32.205 109.444",
+      "China",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Pakistan",
+      "$0.20",
+      "",
+      "30.8325 71.3748",
+      "Pakistan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Saudi Arabia",
+      "$0.98",
+      "",
+      "23.7603 45.0093",
+      "Saudi Arabia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Iran",
+      "$0.16",
+      "",
+      "31.9382 55.5426",
+      "Iran",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Romania",
+      "$0.61",
+      "",
+      "45.857 24.9433",
+      "Romania",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Peru",
+      "$0.56",
+      "",
+      "-13.1699 -73.0464",
+      "Peru",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Belgium",
+      "$1.40",
+      "",
+      "50.6522 4.5809",
+      "Belgium",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Israel",
+      "$1.09",
+      "",
+      "30.6283 34.7087",
+      "Israel",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Cambodia",
+      "$0.17",
+      "",
+      "12.5285 104.3905",
+      "Cambodia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Azerbaijan",
+      "$0.24",
+      "",
+      "40.2805 47.6804",
+      "Azerbaijan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Japan",
+      "$5.16",
+      "",
+      "36.8513 139.1112",
+      "Japan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Greece",
+      "$0.62",
+      "",
+      "38.4414 22.1814",
+      "Greece",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Taiwan",
+      "$1.98",
+      "",
+      "23.741 120.975",
+      "Taiwan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Czech Republic",
+      "$1.18",
+      "",
+      "49.836 15.5465",
+      "Czech Republic",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Algeria",
+      "$0.20",
+      "",
+      "27.5231 3.1685",
+      "Algeria",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "United Arab Emirates",
+      "$1.07",
+      "",
+      "23.3865 54.2485",
+      "United Arab Emirates",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Bangladesh",
+      "$0.18",
+      "",
+      "23.5391 89.8049",
+      "Bangladesh",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Australia",
+      "$5.04",
+      "",
+      "-23.079 132.842",
+      "Australia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Hungary",
+      "$0.66",
+      "",
+      "47.192 20.498",
+      "Hungary",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Morocco",
+      "$0.25",
+      "",
+      "31.7 -7.1325",
+      "Morocco",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Lao PDR",
+      "$0.09",
+      "",
+      "19.9325 102.4435",
+      "Lao PDR",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Bulgaria",
+      "$0.43",
+      "",
+      "42.7345 23.8815",
+      "Bulgaria",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Kyrgyzstan",
+      "$0.23",
+      "",
+      "41.7909 74.9911",
+      "Kyrgyzstan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "South Africa",
+      "$1.59",
+      "",
+      "-29.6482 23.1067",
+      "South Africa",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Portugal",
+      "$0.87",
+      "",
+      "38.7993 -8.3502",
+      "Portugal",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Ecuador",
+      "$0.38",
+      "",
+      "-1.4547 -78.3841",
+      "Ecuador",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Uzbekistan",
+      "$0.32",
+      "",
+      "41.8936 63.8434",
+      "Uzbekistan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Nigeria",
+      "$0.47",
+      "",
+      "9.6551 8.1061",
+      "Nigeria",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Serbia",
+      "$0.24",
+      "",
+      "44.2085 20.7935",
+      "Serbia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Sweden",
+      "$2.56",
+      "",
+      "58.581 14.246",
+      "Sweden",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Finland",
+      "$1.02",
+      "",
+      "63.0704 27.7396",
+      "Finland",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Ghana",
+      "$0.26",
+      "",
+      "6.862 -1.092",
+      "Ghana",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Denmark",
+      "$2.42",
+      "",
+      "56.2196 9.3108",
+      "Denmark",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Austria",
+      "$2.54",
+      "",
+      "47.614 14.0762",
+      "Austria",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Hong Kong",
+      "$1.61",
+      "",
+      "22.411 114.1485",
+      "Hong Kong",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Guatemala",
+      "$0.33",
+      "",
+      "15.2365 -90.7275",
+      "Guatemala",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Moldova",
+      "$0.38",
+      "",
+      "47.2036 28.4105",
+      "Moldova",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Dominican Republic",
+      "$0.31",
+      "",
+      "18.8845 -70.4623",
+      "Dominican Republic",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Jordan",
+      "$0.25",
+      "",
+      "30.7659 36.4909",
+      "Jordan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Bolivia",
+      "$0.31",
+      "",
+      "-16.7289 -64.6413",
+      "Bolivia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Croatia",
+      "$0.42",
+      "",
+      "46.001 16.172",
+      "Croatia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Slovakia",
+      "$0.87",
+      "",
+      "48.7266 19.5075",
+      "Slovakia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Singapore",
+      "$2.13",
+      "",
+      "1.3565 103.8215",
+      "Singapore",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Myanmar",
+      "$0.31",
+      "",
+      "21.5841 96.1867",
+      "Myanmar",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Lithuania",
+      "$0.69",
+      "",
+      "55.1395 23.822",
+      "Lithuania",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Lebanon",
+      "$0.19",
+      "",
+      "33.9117 35.8708",
+      "Lebanon",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Kuwait",
+      "$0.82",
+      "",
+      "29.3073 47.6003",
+      "Kuwait",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Costa Rica",
+      "$0.63",
+      "",
+      "9.9656 -84.1755",
+      "Costa Rica",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Switzerland",
+      "$4.57",
+      "",
+      "46.7919 8.1183",
+      "Switzerland",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Armenia",
+      "$0.27",
+      "",
+      "40.2165 45.0003",
+      "Armenia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Tunisia",
+      "$0.36",
+      "",
+      "33.7774 9.0109",
+      "Tunisia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Panama",
+      "$0.54",
+      "",
+      "8.4165 -81.7705",
+      "Panama",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Sri Lanka",
+      "$0.36",
+      "",
+      "7.7004 80.6672",
+      "Sri Lanka",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Qatar",
+      "$0.64",
+      "",
+      "25.3217 51.1836",
+      "Qatar",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Nepal",
+      "$0.18",
+      "",
+      "28.9136 81.5974",
+      "Nepal",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Oman",
+      "$0.63",
+      "",
+      "22.019 57.368",
+      "Oman",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Latvia",
+      "$0.77",
+      "",
+      "56.7925 26.9435",
+      "Latvia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Uruguay",
+      "$0.44",
+      "",
+      "-32.781 -56.0032",
+      "Uruguay",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Paraguay",
+      "$0.36",
+      "",
+      "-21.9074 -60.1206",
+      "Paraguay",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Bosnia and Herzegovina",
+      "$0.17",
+      "",
+      "44.1809 17.8168",
+      "Bosnia and Herzegovina",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Venezuela",
+      "$0.17",
+      "",
+      "7.1583 -64.0124",
+      "Venezuela",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Georgia",
+      "$0.39",
+      "",
+      "42.1618 43.4818",
+      "Georgia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Norway",
+      "$2.66",
+      "",
+      "60.5366 7.4496",
+      "Norway",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Honduras",
+      "$0.24",
+      "",
+      "14.8229 -86.5899",
+      "Honduras",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Ireland",
+      "$1.84",
+      "",
+      "53.1805 -8.01",
+      "Ireland",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "New Zealand",
+      "$3.94",
+      "",
+      "-44.7201 169.9667",
+      "New Zealand",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Kenya",
+      "$0.45",
+      "",
+      "0.4145 37.8745",
+      "Kenya",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "El Salvador",
+      "$0.28",
+      "",
+      "13.7262 -88.8729",
+      "El Salvador",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Slovenia",
+      "$0.75",
+      "",
+      "46.152 15.1315",
+      "Slovenia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Albania",
+      "$0.17",
+      "",
+      "41.1413 20.0325",
+      "Albania",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Syria",
+      "$0.13",
+      "",
+      "35.0126 38.5441",
+      "Syria",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Palestine",
+      "$0.20",
+      "",
+      "31.9409 35.2734",
+      "Palestine",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Estonia",
+      "$0.82",
+      "",
+      "58.5425 26.5455",
+      "Estonia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Jamaica",
+      "$0.45",
+      "",
+      "18.1125 -77.269",
+      "Jamaica",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "North Macedonia",
+      "$0.25",
+      "",
+      "41.6059 21.6977",
+      "North Macedonia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Puerto Rico",
+      "$1.22",
+      "",
+      "18.234 -66.955",
+      "Puerto Rico",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Libya",
+      "$0.19",
+      "",
+      "25.9354 20.7569",
+      "Libya",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Bahrain",
+      "$0.69",
+      "",
+      "26.0165 50.5475",
+      "Bahrain",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Nicaragua",
+      "$0.22",
+      "",
+      "12.8482 -85.0204",
+      "Nicaragua",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Yemen",
+      "$0.07",
+      "",
+      "15.3921 45.4111",
+      "Yemen",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Cyprus",
+      "$0.68",
+      "",
+      "34.8725 33.131",
+      "Cyprus",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Senegal",
+      "$0.52",
+      "",
+      "14.9983 -14.9588",
+      "Senegal",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Trinidad and Tobago",
+      "$0.30",
+      "",
+      "10.4282 -61.3304",
+      "Trinidad and Tobago",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Tanzania",
+      "$0.32",
+      "",
+      "-5.6989 34.2839",
+      "Tanzania",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Mongolia",
+      "$0.16",
+      "",
+      "46.1689 105.3854",
+      "Mongolia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Tajikistan",
+      "$0.25",
+      "",
+      "38.3213 72.1918",
+      "Tajikistan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Mauritius",
+      "$0.27",
+      "",
+      "-20.2793 57.5696",
+      "Mauritius",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Montenegro",
+      "$0.17",
+      "",
+      "42.7891 19.2862",
+      "Montenegro",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Cote d'Ivoire",
+      "$0.56",
+      "",
+      "7.5538 -5.6121",
+      "Cote d'Ivoire",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Sudan",
+      "$0.11",
+      "",
+      "16.5644 29.0451",
+      "Sudan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Afghanistan",
+      "$0.10",
+      "",
+      "34.4754 66.8303",
+      "Afghanistan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Cameroon",
+      "$0.34",
+      "",
+      "4.5495 11.3105",
+      "Cameroon",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Mozambique",
+      "$0.15",
+      "",
+      "-13.497 38.127",
+      "Mozambique",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Namibia",
+      "$0.41",
+      "",
+      "-20.7238 17.0299",
+      "Namibia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Somalia",
+      "$0.16",
+      "",
+      "2.7589 42.8847",
+      "Somalia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Benin",
+      "$0.18",
+      "",
+      "10.6795 2.2845",
+      "Benin",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Brunei",
+      "$0.39",
+      "",
+      "4.6904 114.9152",
+      "Brunei",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Luxembourg",
+      "$1.23",
+      "",
+      "49.7275 5.9585",
+      "Luxembourg",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Angola",
+      "$0.25",
+      "",
+      "-12.2916 17.5029",
+      "Angola",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Guyana",
+      "$0.24",
+      "",
+      "4.8175 -58.9745",
+      "Guyana",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Bahamas",
+      "$0.62",
+      "",
+      "24.5065 -77.916",
+      "Bahamas",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Uganda",
+      "$0.48",
+      "",
+      "1.9676 32.9896",
+      "Uganda",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Haiti",
+      "$0.28",
+      "",
+      "19.4448 -72.1017",
+      "Haiti",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Malta",
+      "$1.21",
+      "",
+      "35.8975 14.4185",
+      "Malta",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Barbados",
+      "$0.33",
+      "",
+      "13.1645 -59.5405",
+      "Barbados",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Ethiopia",
+      "$0.27",
+      "",
+      "8.83 38.362",
+      "Ethiopia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Zambia",
+      "$0.32",
+      "",
+      "-14.9226 26.1418",
+      "Zambia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Suriname",
+      "$0.16",
+      "",
+      "4.1199 -55.9116",
+      "Suriname",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Maldives",
+      "$0.25",
+      "",
+      "4.1909 73.5081",
+      "Maldives",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Cuba",
+      "$0.21",
+      "",
+      "20.2717 -75.3897",
+      "Cuba",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Zimbabwe",
+      "$0.28",
+      "",
+      "-18.907 29.7885",
+      "Zimbabwe",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Mali",
+      "$0.24",
+      "",
+      "18.4654 -1.9417",
+      "Mali",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Kosovo",
+      "$0.47",
+      null,
+      "42.5794 20.8954",
+      "Kosovo",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "New Caledonia",
+      "$0.48",
+      null,
+      "-21.2615 165.5345",
+      "New Caledonia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Belize",
+      "$0.21",
+      null,
+      "17.197 -88.7035",
+      "Belize",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "French Guiana",
+      "$0.28",
+      null,
+      "3.9045 -53.0915",
+      "French Guiana",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Togo",
+      "$0.25",
+      null,
+      "8.8015 0.9075",
+      "Togo",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Fiji",
+      "$0.24",
+      null,
+      "-17.814 177.759",
+      "Fiji",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Mauritania",
+      "$0.08",
+      null,
+      "19.1695 -9.4755",
+      "Mauritania",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Iceland",
+      "$1.85",
+      null,
+      "65.0115 -18.968",
+      "Iceland",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Botswana",
+      "$0.40",
+      null,
+      "-21.6721 23.9051",
+      "Botswana",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Curaçao",
+      "$0.34",
+      null,
+      "12.194 -68.9715",
+      "Curaçao",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Gabon",
+      "$0.23",
+      null,
+      "-0.647 11.6875",
+      "Gabon",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Turkmenistan",
+      "$0.54",
+      null,
+      "39.4791 59.5154",
+      "Turkmenistan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Burkina Faso",
+      "$0.36",
+      null,
+      "13.0516 -0.6541",
+      "Burkina Faso",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Guam",
+      "$0.70",
+      null,
+      "13.4439 144.7719",
+      "Guam",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Rwanda",
+      "$0.32",
+      null,
+      "-2.0136 29.9188",
+      "Rwanda",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Aruba",
+      "$0.34",
+      null,
+      "12.517 -69.9742",
+      "Aruba",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Madagascar",
+      "$0.17",
+      null,
+      "-18.821 46.8655",
+      "Madagascar",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Macao",
+      "$1.15",
+      null,
+      "22.1348 113.5571",
+      "Macao",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Bhutan",
+      "$0.11",
+      null,
+      "27.5075 90.459",
+      "Bhutan",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Niger",
+      "$0.18",
+      "",
+      "17.3457 9.3245",
+      "Niger",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Grenada",
+      "$0.20",
+      null,
+      "12.1178 -61.6791",
+      "Grenada",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Cape Verde",
+      "$0.14",
+      null,
+      "15.0819 -23.6368",
+      "Cape Verde",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Guinea",
+      "$0.34",
+      null,
+      "10.6071 -13.1511",
+      "Guinea",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Cayman Islands",
+      "$0.61",
+      null,
+      "19.3183 -81.2519",
+      "Cayman Islands",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Papua New Guinea",
+      "$0.47",
+      null,
+      "-6.1227 143.5162",
+      "Papua New Guinea",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Anguilla",
+      "$0.10",
+      null,
+      "18.2245 -63.0574",
+      "Anguilla",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Timor-Leste",
+      "$0.09",
+      null,
+      "-8.7676 125.9664",
+      "Timor-Leste",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Andorra",
+      "$0.40",
+      null,
+      "42.5413 1.5609",
+      "Andorra",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Gambia",
+      "$0.26",
+      null,
+      "13.5035 -14.2265",
+      "Gambia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Sierra Leone",
+      "$0.21",
+      null,
+      "8.5306 -11.7953",
+      "Sierra Leone",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Seychelles",
+      "$0.16",
+      null,
+      "-4.6761 55.4673",
+      "Seychelles",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Malawi",
+      "$0.29",
+      null,
+      "-13.3315 33.8445",
+      "Malawi",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Djibouti",
+      "$0.24",
+      null,
+      "12.169 42.904",
+      "Djibouti",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Dominica",
+      "$0.24",
+      null,
+      "15.4365 -61.357",
+      "Dominica",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "British Virgin Islands",
+      "$0.52",
+      null,
+      "18.4242 -64.6216",
+      "British Virgin Islands",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Liberia",
+      "$0.29",
+      null,
+      "6.7929 -9.9769",
+      "Liberia",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Isle of Man",
+      "$0.12",
+      null,
+      "54.2291 -4.5337",
+      "Isle of Man",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "San Marino",
+      "$0.21",
+      null,
+      "43.9365 12.4423",
+      "San Marino",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "American Samoa",
+      "$0.39",
+      null,
+      "-14.3135 -170.7695",
+      "American Samoa",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Bermuda",
+      "$0.61",
+      null,
+      "32.3108 -64.762",
+      "Bermuda",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Northern Mariana Islands",
+      "$0.44",
+      null,
+      "15.1836 145.7414",
+      "Northern Mariana Islands",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Samoa",
+      "$0.36",
+      null,
+      "-13.6305 -172.4382",
+      "Samoa",
+      "Full-screen ad",
+      "Google"
+    ],
+    [
+      "Greenland",
+      "$1.01",
+      null,
+      "74.4231 -39.7294",
+      "Greenland",
+      "Full-screen ad",
+      "Google"
+    ]
+  ]
+}
